@@ -10,4 +10,3 @@ else
 	read -p "browse " url
 	curl cheat.sh/$url
 fi
-
